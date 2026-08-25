@@ -1,7 +1,6 @@
 streamlit
 streamlit-webrtc
-opencv-python-headless
-cvzone
+cvzone==1.6.1
 mediapipe
 av
 numpy
